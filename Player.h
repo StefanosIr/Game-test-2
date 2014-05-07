@@ -19,4 +19,4 @@ class PlayerAsset : public GameAsset {
 
 
 };
-#endif // TRIANGULARPYRAMIDASSET_H_
+#endif // PLAYERASSET_H_
